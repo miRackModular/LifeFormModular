@@ -14,7 +14,7 @@
   "modules": [
     {
 			"slug": "TimeDiktat",
-			"name": "TimeDiktat",
+			"name": "Time Diktat",
 			"description": "Clock Gen based on JW clock",
 			"tags": [
 				"Clock Generator"
@@ -22,7 +22,7 @@
 		},
 	{
 			"slug": "SequenceModeler",
-			"name": "SequenceModeler",
+			"name": "Sequence Modeler",
 			"description": "Sequencer based on Fundamental SEQ3",
 			"tags": [
 				"Sequencer",
@@ -31,7 +31,7 @@
 		},
 	{
 			"slug": "PitchDiktat",
-			"name": "PitchDiktat",
+			"name": "Pitch Diktat",
 			"description": "Quantizer based on ML Quantum",
 			"tags": [
 				"Quantizer",
@@ -40,7 +40,7 @@
 		},
 	{
 			"slug": "PitchIntegrator",
-			"name": "PitchIntegrator",
+			"name": "Pitch Integrator",
 			"description": "Sequential switch  based on ML switches, with sample and hold designed for pitch",
 			"tags": [
 				"Switch",
@@ -49,7 +49,7 @@
 		},
 	{
 			"slug": "BurstIntegrator",
-			"name": "BurstIntegrator",
+			"name": "Burst Integrator",
 			"description": "Sequential switch based on ML switches, with trigger generator to add burst of trigs to yout patterns",
 			"tags": [
 				"Switch",
@@ -58,7 +58,7 @@
 		},
 	{
 			"slug": "QuadModulator",
-			"name": "QuadModulator",
+			"name": "Quad Modulator",
 			"description": "Quad synced LFO with skew from ramp up to ramp down through sine plus dual unity mixer",
 			"tags": [
 				"LFO",
@@ -67,7 +67,7 @@
 		},
 	{
 			"slug": "ImpulseControl",
-			"name": "ImpulseControl",
+			"name": "Impulse Control",
 			"description": "Trigger sequencer based on Fundamental SEQ3",
 			"tags": [
 				"Sequencer",
@@ -76,7 +76,7 @@
 		},
 	{
 			"slug": "PercussiveVibration",
-			"name": "PercussiveVibration",
+			"name": "Percussive Vibration",
 			"description": "Synth voice based on 21Khz PalmLoop and Befaco Rampage mainly for drums",
 			"tags": [
 				"Synth voice",
@@ -85,7 +85,7 @@
 		},
 	{
 			"slug": "QuadUtility",
-			"name": "QuadUtility",
+			"name": "Quad Utility",
 			"description": "4 scalers 4 adders and 4 VCAs",
 			"tags": [
 				"Utility",
@@ -94,7 +94,7 @@
 		},
 	{
 			"slug": "AdditiveVibration",
-			"name": "AdditiveVibration",
+			"name": "Additive Vibration",
 			"description": "Additive/FM synth voice based on 21Khz PalmLoop and Befaco Rampage ",
 			"tags": [
 				"Synth voice"
@@ -102,7 +102,7 @@
 		},
 	{
 			"slug": "QuadSteppedOffset",
-			"name": "QuadSteppedOffset",
+			"name": "Quad Stepped Offset",
 			"description": "Octave and semitone transposer",
 			"tags": [
 				"Utility",
@@ -111,7 +111,7 @@
 		},
 			{
 			"slug": "ComplexOsc",
-			"name": "ComplexOsc",
+			"name": "Complex Osc",
 			"description": "Complex Oscillator made with 2 phase modulatable sines plus a clipper",
 			"tags": [
 				"Oscillator"
